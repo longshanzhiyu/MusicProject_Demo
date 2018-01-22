@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TabBar</key>
+	<array>
+		<dict>
+			<key>imageNormal</key>
+			<string>hot</string>
+			<key>className</key>
+			<string>NJHotViewController</string>
+			<key>titleName</key>
+			<string>热门</string>
+		</dict>
+		<dict>
+			<key>imageNormal</key>
+			<string>class</string>
+			<key>className</key>
+			<string>NJClassSearchController</string>
+			<key>titleName</key>
+			<string>搜索</string>
+		</dict>
+		<dict>
+			<key>imageNormal</key>
+			<string>play</string>
+			<key>className</key>
+			<string>NJPlayingController</string>
+			<key>titleName</key>
+			<string>播放</string>
+		</dict>
+		<dict>
+			<key>imageNormal</key>
+			<string>myMusic</string>
+			<key>className</key>
+			<string>NJMyMusicController</string>
+			<key>titleName</key>
+			<string>我的音乐</string>
+		</dict>
+		<dict>
+			<key>imageNormal</key>
+			<string>setting</string>
+			<key>className</key>
+			<string>NJSettingController</string>
+			<key>titleName</key>
+			<string>设置</string>
+		</dict>
+	</array>
+</dict>
+</plist>
